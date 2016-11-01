@@ -59,6 +59,9 @@
 }
 .line {
 }
+.marker {
+  color:#FFFFFF;
+}
 .paragraph1 {
   text-align:left;
 }
